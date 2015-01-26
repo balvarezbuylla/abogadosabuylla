@@ -1,0 +1,20 @@
+.texto_header
+{
+	clear:both;
+	text-align:center;
+	margin: 20px auto 0;
+	width: 1090px;
+	height: 160px
+}
+
+#nav-ppal
+{
+	position:relative;
+	top:-35px;
+	width: 1025px;
+	height: 54px;
+	margin: 0 0 10px 0;
+	background-image:url('../images/fondo_menu_ppal.png') !important;
+	background: #ffffff;
+	border: 1px solid #ffffff;
+}
