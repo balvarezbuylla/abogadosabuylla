@@ -1,83 +1,6 @@
-﻿<!DOCTYPE html>
-<html lang="es">
-	<head>
-		<meta charset="UTF-8" />
-		<title>ALVAREZ-BUYLLA PROCURADORES</title>
-		<link rel="shortcut icon" href="" type="image/x-icon">
-		<link rel="icon" href="" type="image/x-icon">
-		<script src="js/modernizr-latest.js"></script> <!--Compatibilizar html y css con todos los navegadores -->
-		<link rel="stylesheet" type="text/css" media="all" href="css/estilos.css" />
-		<!--[if IE]>
-            <link rel="stylesheet" type="text/css" href="css/ie.css" />
-        <![endif]-->
-		<link href='http://fonts.googleapis.com/css?family=Open+Sans|Ope7n+Sans' rel='stylesheet' type='text/css'>
-		<!-- <link href='http://fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'> -->
-		<link href='http://fonts.googleapis.com/css?family=Michroma' rel='stylesheet' type='text/css'>
-		<link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
+﻿<?php include('cabecera.php'); ?>
 
-		<!-- End of Theme options -->
-		<script src="js/jquery-1.11.2.js" type="text/javascript"></script>
-		<script src="js/submenu.js" type="text/javascript"></script> 
-	</head>
-
-<body>
-	<header>
-		<div class="texto_header">
-			<a href="index.html">
-				<p class="t1">ALVAREZ-BUYLLA PROCURADORES </p><br>
-				<p class="t2">Especialistas en procedimientos mercantiles, civiles y contencioso-admvos </p><br>
-				<p class="t3">Vigilatibus iura subveniunt</p><br>
-			</a>
-		</div>
-
-	</header>
-	
-	<div id="pagina_centrada">
-		<div class="menu">
-			<div id="nav-ppal">
-				<nav id="nav-sec">			
-					<ul>
-						<li class="elemento_no_selec"><a href="index.html" title="Home">Home</a></li>
-						<li class="elemento_no_selec"><a href="especialidad.html">Especialidad</a>
-							<ul class='submenu'>
-								<li class="elemento_no_selec"><a href="mercantil.html">Derecho mercantil</a></li>
-								<li class="elemento_no_selec"><a href="civil.html.html">Derecho civil</a></li>
-								<li class="elemento_no_selec"><a href="cont_admin.html">Derecho contecioso-administrativo</a></li>
-								<li class="elemento_no_selec"><a href="recursos.html">Recursos</a></li>
-							</ul>
-						</li>
-						<li class="elemento_no_selec"><a href="titular.html">Titular</a></li>
-						<li class="elemento_no_selec"><a href="publicaciones.html">Publicaciones</a></li>
-						<li class="elemento_no_selec"><a href="libros.html">Libros</a>
-							<ul class='submenu submenu_grande'>
-								<li class="elemento_no_selec"><a href="man_proc.html">Manual de Procuradores</a></li>
-								<li class="elemento_no_selec"><a href="leg_proc.html">Legislaci&oacute;n procesal <br>espa&ntilde;ola para procuradores</a></li>
-								<li class="elemento_no_selec"><a href="tesis_doctoral.html">Tesis doctoral in&eacute;dita <br>Melqu&iacute;ades Alvarez</a></li>
-								<li class="elemento_no_selec"><a href="melquiades.html">Melqu&iacute;ades Alvarez <br>discursos parlamentarios</a></li>
-								<li class="elemento_no_selec"><a href="otros.html">Otros</a></li>
-							</ul>
-						</li>
-						<li class="elemento_no_selec"><a href="docencia.html">Docencia</a></li>
-						<li class="elemento_no_selec"><a href="conferencias.html">Conferencias</a></li>
-						<li class="elemento_no_selec"><a href="prensa.html">Prensa</a>
-							<ul class='submenu'>
-								<li class="elemento_no_selec"><a href="periodicos.html">Peri&oacute;dicos</a></li>
-								<li class="elemento_no_selec"><a href="radio.html">Radio</a></li>
-								<li class="elemento_no_selec"><a href="tv.html">Televisi&oacute;n</a></li>
-							</ul>
-						</li>
-						<li class="elemento_seleccionado"><a href="aviso_legal.html">Aviso legal</a>
-							<ul class='submenu'>
-								<li class="elemento_seleccionado"><a href="aviso_leg.html">Aviso legal</a></li>
-								<li class="elemento_no_selec"><a href="privacidad.html">Politica de privacidad</a></li>
-							</ul>
-						</li>						
-						<li class="elemento_no_selec"><a href="contacto.html">Contacto</a></li>
-					</ul>
-				</nav>
-			</div>
-		</div>	
-		<div id="contenido_grande">			
+<div id="contenido_grande">
 			<article class="articulo">
 				<div class="estilo-contenido">			
 					
@@ -117,14 +40,7 @@
 
 				</div><!-- estilo-contenido -->
 			</article>
-		</div><!-- contenido -->					
-</div><!-- page -->
+		</div><!-- contenido -->
+</div>
 
-<footer id="footer">
-	<section id="pie_de_pagina">
-		<div class="info_footer">ALVAREZ-BUYLLA PROCURADORES | 28013 Madrid | Gran V&iacute;a, 78 | T +34 91 578 06 10 | F +34  91 578 06 10 | <a href="mailto:buylla@arrakis.es">buylla@arrakis.es</a></div>
-	</section>
-</footer><!-- footer -->
-
-</body>
-</html>
+<?php include('footer.php'); ?>
