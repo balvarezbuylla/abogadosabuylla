@@ -67,16 +67,16 @@
                     </li>
                     <li class="elemento_no_selec"><a href="docencia.php">Docencia</a></li>
                     <li class="elemento_no_selec"><a href="conferencias.php">Conferencias</a></li>
-                    <li class="elemento_no_selec"><a href="prensa.html">Prensa</a>
+                    <li class="elemento_no_selec"><a href="periodicos.php">Prensa</a>
                         <ul class='submenu'>
                             <li class="elemento_no_selec"><a href="periodicos.php">Peri&oacute;dicos</a></li>
                             <li class="elemento_no_selec"><a href="radio.php">Radio</a></li>
-                            <li class="elemento_no_selec"><a href="tv.php">Televisi&oacute;n</a></li>
+                            <li class="elemento_no_selec"><a href="television.php">Televisi&oacute;n</a></li>
                         </ul>
                     </li>
                     <li class="elemento_no_selec"><a href="aviso-legal.php">Aviso legal</a>
                         <ul class='submenu'>
-                            <li class="elemento_no_selec"><a href="aviso_leg.php">Aviso legal</a></li>
+                            <li class="elemento_no_selec"><a href="aviso-legal.php">Aviso legal</a></li>
                             <li class="elemento_no_selec"><a href="privacidad.php">Politica de privacidad</a></li>
                         </ul>
                     </li>

@@ -5,7 +5,7 @@
         <div class="estilo-contenido libros">
 
             <!-- Contenido principal -->
-            <p><img class="derecha" title="otros-libros" src="images/libros.png" alt="libros" width="260" height="243" /><strong>Actividad docente</strong><br/>
+            <p><strong>Actividad docente</strong><br/>
 
             <h1>Universidad Nacional de Educación a Distancia UNED. Desde 2012-hoy            </h1>
             <p><a href="#">Profesor del máster de acceso a la profesión de procurador de los tribunales</a></p></br>
