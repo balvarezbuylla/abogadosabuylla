@@ -5,7 +5,7 @@
             <div class="estilo-contenido">
 
                 <!-- Contenido principal -->
-                <p><img class="derecha" title="home_main" src="images/home.jpg" alt="Foto ipad y butaca" width="260" height="243" /><strong>Publicaciones recientes</strong><br/>
+                <p><img class="derecha" title="home_main" src="images/volando.png" alt="Foto ipad y butaca" width="260" height="243" /><strong>Publicaciones recientes</strong><br/>
 
                 <p><strong>Práctica de Tribunales, marzo-abril 2015 </strong></p>
                 <p>Los actos de comunicación practicados por Procuradores: referencia a la próxima reforma de la Ley de Enjuiciamiento Civil 1/00</p>

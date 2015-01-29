@@ -2,22 +2,22 @@
 
 <div id="contenido">
     <article class="articulo">
-        <div class="estilo-contenido">
+        <div class="estilo-contenido libros">
 
             <!-- Contenido principal -->
             <p><img class="derecha" title="home_main" src="images/home.jpg" alt="Foto del libro en fondo gris claro y torcido" width="260" height="243" />
                 <strong>Legislación española procesal para Procuradores de los Tribunales, comentarios, concordancias y Jurisprudencia. </strong><br/>
 
-            <p><strong>Libro:</strong></p>
+            <h1>Libro:</h1>
             <p>Legislación española procesal para Procuradores de los Tribunales, comentarios, concordancias y Jurisprudencia.            </p>
             <p><a href="#">Editorial Colex</a>, 2009. </p>
 
-            <p><strong>Autores:</strong></p>
+            <h1>Autores:</h1>
             <p>Manuel Alvarez-Buylla Ballesteros y Gabriel de Diego Quevedo</p>
 
-            <p><strong>Categoría:</strong></p>
+            <h1>Categoría:</h1>
             <p>Legislación procesal comentada para profesionales</p>
-
+			<br>
             <p>Perteneciente a la serie roja de legislación de Colex, el libro se estructura de forma piramidal, comenzando por su cúpula:
                 la Constitución Española y la Ley Orgánica del Poder Judicial, y desciende por las aristas de la pirámide que contemplan los
                 cuatro órdenes jurisdiccionales: civil, penal, contencioso-administrativo y laboral, entre las que se recogen íntegras la Ley

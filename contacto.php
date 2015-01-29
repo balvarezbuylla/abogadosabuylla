@@ -11,17 +11,17 @@
 					<p>Manuel Alvarez-Buylla Ballesteros</p>
 					<p>Procurador de los Tribunales en Madrid Capital</p>
 
-					<p>Edificio Coliseum (wikipedia)</p>
+					<p><a href="">Edificio Coliseum (wikipedia)</a></p>
 					<p>Gran Vía, 78.   Madrid 28013</p>
 					<p>Metro líneas 3, 10. Estación Plaza de España</p>
 
 					<p>T +34 91 578 06 10</p>
 					<p>F  +34 91 578 04 68</p>
-					<p>buylla@arrakis.es</p>
+					<p><a href="mailto:buylla@arrakis.es">buylla@arrakis.es</a></p>
 					
 				</div><!-- estilo-contenido -->
 			</article>
 		</div><!-- contenido -->					
-</>div<!-- page -->
+</div><!-- page -->
 
 <?php include('footer.php'); ?>

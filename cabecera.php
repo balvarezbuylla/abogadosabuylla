@@ -49,14 +49,14 @@
                     <li class="elemento_no_selec"><a href="especialidad.php">Especialidad</a>
                         <ul class='submenu'>
                             <li class="elemento_no_selec"><a href="mercantil.php">Derecho mercantil</a></li>
-                            <li class="elemento_no_selec"><a href="civil.html.php">Derecho civil</a></li>
-                            <li class="elemento_no_selec"><a href="cont_admin.php">Derecho contecioso-administrativo</a></li>
+                            <li class="elemento_no_selec"><a href="civil.php">Derecho civil</a></li>
+                            <li class="elemento_no_selec"><a href="contencioso-administrativo.php">Derecho contecioso-administrativo</a></li>
                             <li class="elemento_no_selec"><a href="recursos.php">Recursos</a></li>
                         </ul>
                     </li>
                     <li class="elemento_no_selec"><a href="titular.php">Titular</a></li>
                     <li class="elemento_no_selec"><a href="publicaciones.php">Publicaciones</a></li>
-                    <li class="elemento_no_selec"><a href="libros.php">Libros</a>
+                    <li class="elemento_no_selec"><a href="manual-procuradores.php">Libros</a>
                         <ul class='submenu submenu_grande'>
                             <li class="elemento_no_selec"><a href="manual-procuradores.php">Manual de Procuradores</a></li>
                             <li class="elemento_no_selec"><a href="legislacion-procesal.php">Legislaci&oacute;n procesal <br>espa&ntilde;ola para procuradores</a></li>
@@ -74,7 +74,7 @@
                             <li class="elemento_no_selec"><a href="tv.php">Televisi&oacute;n</a></li>
                         </ul>
                     </li>
-                    <li class="elemento_no_selec"><a href="aviso_legal.php">Aviso legal</a>
+                    <li class="elemento_no_selec"><a href="aviso-legal.php">Aviso legal</a>
                         <ul class='submenu'>
                             <li class="elemento_no_selec"><a href="aviso_leg.php">Aviso legal</a></li>
                             <li class="elemento_no_selec"><a href="privacidad.php">Politica de privacidad</a></li>

@@ -1,9 +1,10 @@
 <?php include('cabecera.php'); ?>
 
-<div id="contenido">
+<div id="contenido_grande">
     <article class="articulo">
         <div class="estilo-contenido">
 
+			<p><img class="centrado" title="home_main" src="images/volando.png" alt="Foto, de pie, medio cuerpo, brazo cruzado" width="260" height="243" />	
             <!-- Contenido principal -->
             <p><strong>Manuel Alvarez-Buylla Ballesteros</strong></p>
             <p><strong>Procurador de los Tribunales y especialista en derecho procesal</strong></p>

@@ -5,6 +5,7 @@
             <div class="estilo-contenido">
 
                 <!-- Contenido principal -->
+				<p><strong>Recursos contra resoluciones procesales</strong></p>
                 <p><a href="" >Recursos de reposición y revisión contra resoluciones de jueces y secretarios judiciales</a></p>
                 <p><a href="" >Recurso de apelación contra sentencias dictadas por tribunales civiles y cont.-admvos</a></p>
                 <p><a href="" >Recurso de infracción procesal contra sentencias dictadas por tribunales civiles</a></p>

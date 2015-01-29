@@ -354,30 +354,30 @@ header
 }
 
 .estilo-contenido h1,
-.estilo-contenido h2
+.estilo-contenido h2,
+.estilo-contenido b
 {
 	color: #4f5559;
 	font-weight: bold;
-	margin: 0 0 10px;
 }
 
 .estilo-contenido h1,
-.estilo-contenido strong
+.estilo-contenido h2
 {
-	font-size:18px;
-	font-weight:normal;
+	margin: 0 0 10px;
 }
+
 
 .estilo-contenido h1,
 .estilo-contenido b
 {
 	font-size:14px;
-	font-weight:bold;
-	color: #4f5559;
 }
 
 .estilo-contenido strong
 {
+	font-size:18px;
+	font-weight:normal;
 	margin-bottom: -7px !important;
 }
 
@@ -409,6 +409,11 @@ header
 	text-decoration:none !important;
 }
 
+.libros h1
+{
+	color:#798e99 !important;
+}
+
 /* Imágenes */
 .estilo-contenido img
 {
@@ -432,6 +437,7 @@ p img
 /* Footer */
 #footer 
 {
+	z-index:1111;
 	float:left;
 	width: 100%;
 	min-width:1024px;

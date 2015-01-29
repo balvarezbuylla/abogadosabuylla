@@ -2,22 +2,22 @@
 
 <div id="contenido">
     <article class="articulo">
-        <div class="estilo-contenido">
+        <div class="estilo-contenido libros">
 
             <!-- Contenido principal -->
             <p><img class="derecha" title="home_main" src="images/home.jpg" alt="Foto del libro en fondo gris claro y torcido" width="260" height="243" />
                 <strong>Tesis doctoral inédita de Melquíades Alvarez. </strong><br/>
 
-            <p><strong>Libro:</strong></p>
+            <h1>Libro:</h1>
             <p>Tesis doctoral inédita de Melquíades Alvarez. Estudio introductorio de Manuel Alvarez-Buylla Ballesteros</p>
             <p><a href="#">Servicio de publicaciones Universidad de Oviedo</a>, 2006. </p>
 
-            <p><strong>Autores:</strong></p>
+            <h1>Autores:</h1>
             <p>Manuel Alvarez-Buylla Ballesteros</p>
 
-            <p><strong>Categoría:</strong></p>
+            <h1>Categoría:</h1>
             <p>Historia del Derecho, siglo XX.</p>
-
+			<br>
             <p>Se trata de una cuidada edición que contiene la tesis doctoral inédita de Melquíades Alvarez (1864-1936), político republicano
                 creador del Partido Reformista y que llegó hasta la Presidencia del Congreso de los Diputados en 1923. D. Melquíades leería la
                 tesis en la Universidad Complutense de Madrid en 1886 y tiene como título “La pena, su naturaleza: examen y crítica de los más

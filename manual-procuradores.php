@@ -2,22 +2,22 @@
 
 <div id="contenido">
     <article class="articulo">
-        <div class="estilo-contenido">
+        <div class="estilo-contenido libros">
 
             <!-- Contenido principal -->
             <p><img class="derecha" title="home_main" src="images/home.jpg" alt="Foto del libro en fondo gris claro y torcido" width="260" height="243" /><strong>Manual de Procuradores. Derecho Procesal práctico con esquemas, escritos y resoluciones judiciales.
                 </strong><br/>
 
-            <p><strong>Libro:</strong></p>
+            <h1>Libro:</h1>
             <p>Manual de Procuradores. Derecho Procesal práctico con esquemas, escritos y resoluciones judiciales.            </p>
             <p>2º edición, <a href="#">Editorial Colex</a>, 2012. </p>
 
-            <p><strong>Autores:</strong></p>
+            <h1>Autores:</h1>
             <p>Manuel Alvarez-Buylla Ballesteros (coordinador), Marco Labajo González, Mª Fuencisla Martínez Minguez y María Isabel Torres Ruiz            </p>
 
-            <p><strong>Categoría:</strong></p>
+            <h1>Categoría:</h1>
             <p>Derecho procesal práctico para profesionales</p>
-
+			<br>
             <p>Después del éxito de la 1ª edición, reimprimida en dos ocasiones, sale a la venta la segunda edición del Manual de Procuradores,
                 actualizada a febrero de 2012 y ampliada con los temas referentes a la utilización de Lexnet y a la práctica de los actos de
                 comunicación por Procuradores.
