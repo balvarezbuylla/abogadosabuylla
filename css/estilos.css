@@ -75,7 +75,7 @@ body{
 	position:relative;
 	top:65px;
 	left:162px;
-	width: 703px !important;
+	width: 703px;
 	min-height:544px;
 	z-index: 99;
 	background-image:url('../images/panel_contenido.jpg');
@@ -86,7 +86,7 @@ body{
 	position:relative;
 	top:65px;
 	left:162px;
-	width: 703px !important;
+	width: 703px;
 	min-height:1200px;
 	z-index: 99;
 	background-image:url('../images/panel_contenido_big.jpg');
@@ -99,13 +99,13 @@ body{
 	text-align:center;
 }
 #contenido #subcontenido p{
-	background-image:url('../images/subcontenido.jpg');
+	background-image:url('../images/sub-contenido.jpg');
 	background-repeat: no-repeat;
 	text-align:left;
-	padding:20px;
-	margin-left:40px;
-	width:498px;
-	height:87px;
+	padding:15px;
+	margin-left:80px;
+	width:468px;
+	height:100px;
 }
 
 /* Alinear */
@@ -203,7 +203,7 @@ header
 
 .menu #nav-sec li.elemento_seleccionado a,
 .menu #nav-sec li.elemento_no_selec a:hover{
-	color:#004165 !important;
+	color:#004165;
 }
 
 #nav-ppal
@@ -246,7 +246,9 @@ header
 	margin-top:-10px !important;/*-6*/
 }
 
-.menu #nav-sec ul ul.submenu_grande{
+.menu #nav-sec ul ul.submenu_grande,
+.menu #nav-sec .elemento_seleccionado ul.submenu_grande
+{
 	background-image:url('../images/fondo_menu_sec_big.png') !important;
 	padding-left:15px !important;
 	width: 1012px;
@@ -324,7 +326,7 @@ header
 
 #nav-sec ul a:hover,
 #nav-sec ul ul a:hover{
-	color: #004165 !important;
+	color: #004165 ;
 }
 
 #nav-sec li:hover > a,
@@ -354,31 +356,28 @@ header
 }
 
 .estilo-contenido h1,
-.estilo-contenido h2,
-.estilo-contenido b
-{
-	color: #4f5559;
-	font-weight: bold;
-}
-
-.estilo-contenido h1,
-.estilo-contenido h2
-{
-	margin: 0 0 10px;
-}
-
-
-.estilo-contenido h1,
 .estilo-contenido b
 {
 	font-size:14px;
+	font-weight: bold;
+}
+
+.estilo-contenido b
+{
+	color: #4f5559;
+}
+
+.estilo-contenido h1
+{
+	color:#798e99;
+	margin: 0 0 10px;
 }
 
 .estilo-contenido strong
 {
 	font-size:18px;
 	font-weight:normal;
-	margin-bottom: -7px !important;
+	margin-bottom: -7px;
 }
 
 .estilo-contenido p,
@@ -387,14 +386,6 @@ header
 	font-size:14px;
 	font-weight:normal;
 	color: #4f5559;
-}
-
-.estilo-contenido h3
-{
-	font-size: 10px;
-	letter-spacing: 1px;
-	line-height: 31px;
-	text-transform: uppercase;
 }
 
 .estilo-contenido a
@@ -411,7 +402,7 @@ header
 
 .libros h1
 {
-	color:#798e99 !important;
+	color:#798e99;
 }
 
 /* Imágenes */
