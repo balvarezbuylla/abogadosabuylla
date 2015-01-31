@@ -26,7 +26,7 @@
                     </li>
                     <li class="elemento_no_selec"><a href="docencia.php">Docencia</a></li>
                     <li class="elemento_no_selec"><a href="conferencias.php">Conferencias</a></li>
-                    <li class="elemento_no_selec"><a href="periodicos.php">Prensa</a>
+                    <li class="elemento_no_selec"><a href="radio.php">Prensa</a>
                         <ul class='submenu'>
                             <li class="elemento_no_selec"><a href="periodicos.php">Peri&oacute;dicos</a></li>
                             <li class="elemento_no_selec"><a href="radio.php">Radio</a></li>
@@ -49,7 +49,7 @@
 				<div class="estilo-contenido">			
 					
 				<!-- Contenido principal -->
-					<strong>Newsletters</strong><br><br>
+                    <p><img class="derecha" title="home_main" src="images/volando.png" alt="Foto iphone" width="260" height="243" /><strong>Newsletters</strong><br/>
 					<p>Mantenemos una vigilancia especial sobre las reformas de la legislación procesal que se aprueban por las Cortes y sobre los proyectos de ley.
 					 Asimismo, prestamos especial atención a las sentencias dictadas en materia de derecho procesal.</p>
 					<p>Remitimos a nuestros abogados boletines periódicos subrayando la atención a las novedades más significativas  que puedan afectar a los distintos procedimientos.</p>

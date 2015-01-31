@@ -26,7 +26,7 @@
                     </li>
                     <li class="elemento_no_selec"><a href="docencia.php">Docencia</a></li>
                     <li class="elemento_no_selec"><a href="conferencias.php">Conferencias</a></li>
-                    <li class="elemento_no_selec"><a href="periodicos.php">Prensa</a>
+                    <li class="elemento_no_selec"><a href="radio.php">Prensa</a>
                         <ul class='submenu'>
                             <li class="elemento_no_selec"><a href="periodicos.php">Peri&oacute;dicos</a></li>
                             <li class="elemento_no_selec"><a href="radio.php">Radio</a></li>
@@ -44,38 +44,51 @@
             </nav>
         </div>
     </div>
-<div id="contenido">
+<div id="contenido_grande">
     <article class="articulo">
         <div class="estilo-contenido libros">
 
             <!-- Contenido principal -->
-            <p><img class="derecha" title="home_main" src="images/home.jpg" alt="Foto del libro en fondo gris claro y torcido" width="260" height="243" />
+            <p><img class="derecha" title="home_main" src="images/legislacion-procesal-española.jpg" alt="Foto del libro en fondo gris claro y torcido" width="260" height="243" />
                 <strong>Legislación española procesal para Procuradores de los Tribunales, comentarios, concordancias y Jurisprudencia. </strong><br/>
 
-            <h1>Libro:</h1>
-            <p>Legislación española procesal para Procuradores de los Tribunales, comentarios, concordancias y Jurisprudencia.            </p>
-            <p><a href="#">Editorial Colex</a>, 2009. </p>
+            <div class="publicaciones">
+                <h1>Libro:</h1>
+                <p>Legislación española procesal para Procuradores de los Tribunales, comentarios, concordancias y Jurisprudencia.            </p>
+                <p><a href="https://www.colex.es/">Editorial Colex</a>, 2009. </p>
+            </div>
 
-            <h1>Autores:</h1>
-            <p>Manuel Alvarez-Buylla Ballesteros y Gabriel de Diego Quevedo</p>
+            <div class="publicaciones">
+                <h1>Autores:</h1>
+                <p>Manuel Alvarez-Buylla Ballesteros y Gabriel de Diego Quevedo</p>
+            </div>
 
-            <h1>Categoría:</h1>
-            <p>Legislación procesal comentada para profesionales</p>
-			<br>
-            <p>Perteneciente a la serie roja de legislación de Colex, el libro se estructura de forma piramidal, comenzando por su cúpula:
-                la Constitución Española y la Ley Orgánica del Poder Judicial, y desciende por las aristas de la pirámide que contemplan los
-                cuatro órdenes jurisdiccionales: civil, penal, contencioso-administrativo y laboral, entre las que se recogen íntegras la Ley
-                de Enjuiciamiento Civil y la Ley de la Jurisdicción contencioso-administrativa. También se recoge la legislación aplicable al
-                recurso de amparo constitucional y los procesos ante el Tribunal de Cuentas así como multitud de leyes relacionadas con la
-                práctica procesal diaria como son las que regulan la tasa judicial, las anotaciones preventivas, los depósitos judiciales,
-                las notificaciones en la Unión Europea, los procedimientos administrativos y económico administrativos, etc.
-            </p>
+            <div class="publicaciones">
+                <h1>Categoría:</h1>
+                <p>Legislación procesal comentada para profesionales</p>
+            </div>
 
-            <p>Todo ello comporta no solamente una visión global de todos los procesos existentes en nuestro ordenamiento jurídico sino que
-                además le permite a los profesionales la consulta puntual y exhaustiva de cualquier problema o duda que puedan suscitársele,
-                donde los autores interpretan el articulado de forma eminentemente práctica y a la luz del usus fori y de la jurisprudencia.
-                Se completa la obra con un Índice de voces donde se insertan las voces de mayor uso para los profesionales.
-            </p>
+            <div class="publicaciones">
+                <p>Perteneciente a la serie roja de legislación de Colex, el libro se estructura de forma piramidal, comenzando por su cúpula:
+                    la Constitución Española y la Ley Orgánica del Poder Judicial, y desciende por las aristas de la pirámide que contemplan los
+                    cuatro órdenes jurisdiccionales: civil, penal, contencioso-administrativo y laboral, entre las que se recogen íntegras la Ley
+                    de Enjuiciamiento Civil y la Ley de la Jurisdicción contencioso-administrativa. También se recoge la legislación aplicable al
+                    recurso de amparo constitucional y los procesos ante el Tribunal de Cuentas así como multitud de leyes relacionadas con la
+                    práctica procesal diaria como son las que regulan la tasa judicial, las anotaciones preventivas, los depósitos judiciales,
+                    las notificaciones en la Unión Europea, los procedimientos administrativos y económico administrativos, etc.
+                </p>
+
+                <p>Todo ello comporta no solamente una visión global de todos los procesos existentes en nuestro ordenamiento jurídico sino que
+                    además le permite a los profesionales la consulta puntual y exhaustiva de cualquier problema o duda que puedan suscitársele,
+                    donde los autores interpretan el articulado de forma eminentemente práctica y a la luz del usus fori y de la jurisprudencia.
+                    Se completa la obra con un Índice de voces donde se insertan las voces de mayor uso para los profesionales.
+                </p>
+            </div>
+
+            <div class="imagen-pie">
+                <img title="legislacion-procesal" src="images/legislacion-procesal-española-presentacion.jpg" alt="Presentación leguslación procesal Senado"  />
+                <p>3.11.2009 Presentación en el Senado</p>
+            </div>
 
         </div><!-- estilo-contenido -->
     </article>

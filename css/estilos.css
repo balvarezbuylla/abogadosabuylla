@@ -349,6 +349,12 @@ header
 	padding: 10px 0 0 0;
 }
 
+.huissiers{
+	position:absolute;
+	left:760px;
+	top:95px;
+}
+
 .estilo-contenido
 {
 	padding: 0;
@@ -408,9 +414,10 @@ header
 /* Imágenes */
 .estilo-contenido img
 {
-	max-width: 97.5%; 
+	max-width: 100%; 
 	margin-bottom: 16px;
-	padding:0px !important;
+	padding:0px;
+	border: 1px solid #ddd;
 }
 
 p img
@@ -466,5 +473,48 @@ p img
 .active a{
     color:#004165 !important
 }
+
+
+.publicaciones p {
+    margin-bottom: 18px;
+}
+
+.publicaciones > h1 {
+    margin: 0 0 3px;
+}
+
+.imagen-pie img {
+    max-width: 80%;
+    margin-bottom: 9px;
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold;
+
+}
+
+.imagen-pie p {
+    text-align:center;
+    font-size: 13px;
+
+}
+
+.otros {
+    margin-bottom: 35px;
+    margin-top: 20px;
+}
+
+.otros > h1 {
+    margin-bottom: 3px;
+    margin-top: 12px;
+}
+
+.estilo-contenido iframe{
+    margin-top: 50px;
+    margin-left: 13px;
+}
+
+
 
 

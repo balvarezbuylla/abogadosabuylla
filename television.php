@@ -26,7 +26,7 @@
                     </li>
                     <li class="elemento_no_selec"><a href="docencia.php">Docencia</a></li>
                     <li class="elemento_no_selec"><a href="conferencias.php">Conferencias</a></li>
-                    <li class="elemento_seleccionado"><a href="periodicos.php">Prensa</a>
+                    <li class="elemento_seleccionado"><a href="radio.php">Prensa</a>
                         <ul class='submenu'>
                             <li class="elemento_no_selec"><a href="periodicos.php">Peri&oacute;dicos</a></li>
                             <li class="elemento_no_selec"><a href="radio.php">Radio</a></li>
@@ -49,14 +49,19 @@
         <div class="estilo-contenido">
 
             <!-- Contenido principal -->
+            <p><img class="derecha" title="Foto entrevista tv" src="images/entrevista-tv.png" alt="Foto entrevista tv" width="260" height="243" />
             <p><strong>Televisión</strong><br/>
 
-            <h1>Antena 3 TV, Noticias, 17.12.12</h1>
-            <p>Intervención en los informativos nacionales sobre las tasas judiciales</p><br>
+            <div class="publicaciones">
+                <h1>Antena 3 TV, Noticias, 17.12.12</h1>
+                <p>Intervención en los informativos nacionales sobre las tasas judiciales</p>
+            </div>
 
-            <h1>Hispan TV, 02.12.2012</h1>
-            <p>Programa “Recorridos Urbanos”. Entrevista junto con el abogado Raul Maíllo sobre la interpretación de la Justicia</p>
-
+            <div class="publicaciones">
+                <h1>Hispan TV, 02.12.2012</h1>
+                <p><a href="http://www.youtube.com/user/hispantv/search?query=buylla" target="_blank">Programa “Recorridos Urbanos”.
+                        Entrevista junto con el abogado Raul Maíllo sobre la interpretación de la Justicia</a></p>
+            </div>
 
 
         </div><!-- estilo-contenido -->

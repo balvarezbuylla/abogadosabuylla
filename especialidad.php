@@ -26,7 +26,7 @@
                     </li>
                     <li class="elemento_no_selec"><a href="docencia.php">Docencia</a></li>
                     <li class="elemento_no_selec"><a href="conferencias.php">Conferencias</a></li>
-                    <li class="elemento_no_selec"><a href="periodicos.php">Prensa</a>
+                    <li class="elemento_no_selec"><a href="radio.php">Prensa</a>
                         <ul class='submenu'>
                             <li class="elemento_no_selec"><a href="periodicos.php">Peri&oacute;dicos</a></li>
                             <li class="elemento_no_selec"><a href="radio.php">Radio</a></li>

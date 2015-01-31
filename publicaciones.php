@@ -26,7 +26,7 @@
                     </li>
                     <li class="elemento_no_selec"><a href="docencia.php">Docencia</a></li>
                     <li class="elemento_no_selec"><a href="conferencias.php">Conferencias</a></li>
-                    <li class="elemento_no_selec"><a href="periodicos.php">Prensa</a>
+                    <li class="elemento_no_selec"><a href="radio.php">Prensa</a>
                         <ul class='submenu'>
                             <li class="elemento_no_selec"><a href="periodicos.php">Peri&oacute;dicos</a></li>
                             <li class="elemento_no_selec"><a href="radio.php">Radio</a></li>
@@ -44,42 +44,62 @@
             </nav>
         </div>
     </div>
-    <div id="contenido">
+    <div id="contenido_grande">
         <article class="articulo">
             <div class="estilo-contenido">
 
                 <!-- Contenido principal -->
                 <p><img class="derecha" title="home_main" src="images/volando.png" alt="Foto ipad y butaca" width="260" height="243" /><strong>Publicaciones recientes</strong><br/>
 
-                <p><strong>Práctica de Tribunales, marzo-abril 2015 </strong></p>
-                <p>Los actos de comunicación practicados por Procuradores: referencia a la próxima reforma de la Ley de Enjuiciamiento Civil 1/00</p>
+                <div class="publicaciones">
+                    <h1>Práctica de Tribunales, marzo-abril 2015 </h1>
+                    <p>Los actos de comunicación practicados por Procuradores: referencia a la próxima reforma de la Ley de Enjuiciamiento Civil 1/00</p>
+                </div>
 
-                <p><strong>Revista del Colegio de Procuradores de Madrid, 4º trimestre 2014</strong></p>
-                <p>El sistema Lexnet: fechado de notificaciones y resolución de incidencias</p>
+                <div class="publicaciones">
+                    <h1>Revista del Colegio de Procuradores de Madrid, 4º trimestre 2014</h1>
+                    <p>El sistema Lexnet: fechado de notificaciones y resolución de incidencias</p>
+                </div>
 
-                <p><strong>Revista del Colegio de Procuradores de Madrid, 1º trimestre 2014</strong></p>
-                <p>El arancel está muerto. ¡Larga vida al arancel!</p>
+                <div class="publicaciones">
+                    <h1>Revista del Colegio de Procuradores de Madrid, 1º trimestre 2014</h1>
+                    <p><a target="_blank" href="/docs/el-arancel-esta-muerto.pdf">El arancel está muerto. ¡Larga vida al arancel!</a></p>
+                </div>
 
-                <p><strong>Revista del Colegio de Procuradores de Madrid, 4º trimestre 2013 </strong></p>
-                <p>Las funciones profesionales de los procuradores de los tribunales</p>
+                <div class="publicaciones">
+                    <h1>Revista del Colegio de Procuradores de Madrid, 4º trimestre 2013 </h1>
+                    <p><a target="_blank" href="/docs/funciones-profesionales.pdf">Las funciones profesionales de los procuradores de los tribunales</a></p>
+                </div>
 
-                <p><strong>Revista del Colegio de Procuradores de Madrid, 2º trimestre 2013 </strong></p>
-                <p>Nuevas perspectivas de los actos de comunicación practicados por los Procuradores</p>
+                <div class="publicaciones">
+                    <h1>Revista del Colegio de Procuradores de Madrid, 2º trimestre 2013 </h1>
+                    <p><a target="_blank" href="/docs/nuevas-perspectivas.pdf">Nuevas perspectivas de los actos de comunicación practicados por los Procuradores</a></p>
+                </div>
 
-                <p><strong>Práctica de Tribunales, septiembre-octubre 2012  </strong></p>
-                <p>Los defectos endémicos del proceso y de la Administración de Justicia española</p>
+                <div class="publicaciones">
+                    <h1>Práctica de Tribunales, septiembre-octubre 2012  </h1>
+                    <p><a target="_blank" href="/docs/los-defectos-endemicos.pdf">Los defectos endémicos del proceso y de la Administración de Justicia española</a></p>
+                </div>
 
-                <p><strong>Revista Torre de los Lujanes, Madrid, núm. 68, 2011  </strong></p>
-                <p>El asesinato de Melquíades Alvarez: Víctima de tres tiranías</p>
+                <div class="publicaciones">
+                    <h1>Revista Torre de los Lujanes, Madrid, núm. 68, 2011  </h1>
+                    <p><a target="_blank" href="/docs/el-asesinato-de-melquiades-alvarez.pdf">El asesinato de Melquíades Alvarez: Víctima de tres tiranías</a></p>
+                </div>
 
-                <p><strong>Revista del Colegio de Procuradores de Madrid, 3º trimestre 2010  </strong></p>
-                <p>Práctica de los actos de comunicación por Procuradores de los Tribunales</p>
+                <div class="publicaciones">
+                    <h1>Revista del Colegio de Procuradores de Madrid, 3º trimestre 2010  </h1>
+                    <p><a target="_blank" href="/docs/practica-actos-comunicacion.pdf">Práctica de los actos de comunicación por Procuradores de los Tribunales</a></p>
+                </div>
 
-                <p><strong>Revista La Ley núm. 7896/10 de 21 de julio de 2010 </strong></p>
-                <p>La agilización y eficacia de los procesos: nuevas funciones asumidas por los procuradores y reformas propuestas aprobadas por las Cortes</p>
+                <div class="publicaciones">
+                    <h1>Revista La Ley núm. 7896/10 de 21 de julio de 2010 </h1>
+                    <p>La agilización y eficacia de los procesos: nuevas funciones asumidas por los procuradores y reformas propuestas aprobadas por las Cortes</p>
+                </div>
 
-                <p><strong>Economist & Jurist, núm. 128, marzo 2009 </strong></p>
-                <p>La acción popular en el proceso penal</p>
+                <div class="publicaciones">
+                    <h1>Economist & Jurist, núm. 128, marzo 2009 </h1>
+                    <p>La acción popular en el proceso penal</p>
+                </div>
 
             </div><!-- estilo-contenido -->
         </article>

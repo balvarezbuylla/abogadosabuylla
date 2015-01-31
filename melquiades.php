@@ -26,7 +26,7 @@
                     </li>
                     <li class="elemento_no_selec"><a href="docencia.php">Docencia</a></li>
                     <li class="elemento_no_selec"><a href="conferencias.php">Conferencias</a></li>
-                    <li class="elemento_no_selec"><a href="periodicos.php">Prensa</a>
+                    <li class="elemento_no_selec"><a href="radio.php">Prensa</a>
                         <ul class='submenu'>
                             <li class="elemento_no_selec"><a href="periodicos.php">Peri&oacute;dicos</a></li>
                             <li class="elemento_no_selec"><a href="radio.php">Radio</a></li>
@@ -49,32 +49,45 @@
         <div class="estilo-contenido libros">
 
             <!-- Contenido principal -->
-            <p><img class="derecha" title="home_main" src="images/home.jpg" alt="FOTO DEL LIBRO EN FONDO GRIS CLARO Y TORCIDO" width="260" height="243" /><strong>Melquíades  Alvarez. Discursos parlamentarios
+            <p><img class="derecha" title="discursos-parlametarios-melquiades" src="images/discursos-parlamentarios-melquiades.jpg" alt="Discursos parlamentarios Melquiades" width="260" height="243" /><strong>Melquíades  Alvarez. Discursos parlamentarios
                 </strong><br/>
 
-            <h1>Libro:</strong></h1>
-            <p>Melquíades  Alvarez. Discursos parlamentarios <br>
-			Editorial Nobel, 2008. <a href="#">Distribuido por Edisofer.</a>
-			</p>
-           
-            <h1>Autores:</h1>
-            <p>Manuel Alvarez-Buylla Ballesteros, José Antonio García Pérez y Miguel Ángel Villanueva Valdés</p>
+            <div class="publicaciones">
+                <h1>Libro:</strong></h1>
+                <p>Melquíades  Alvarez. Discursos parlamentarios <br>
+                    Editorial Nobel, 2008. <a href="http://www.edisofer.com/">Distribuido por Edisofer.</a>
+                </p>
+            </div>
 
-            <h1>Categoría:</h1>
-            <p>Historia política española, siglo XX.</p>
-			<br>
-            <p>Melquíades Alvarez (Gijón, 1864-1936) es considerado una de las más altas cimas de la oratoria parlamentaria de todos los tiempos. 
-			Por primera vez se editan íntegras sus intervenciones pronunciadas en el Congreso de los Diputados, recogidas taquigráficamente en los
-			Diarios de Sesiones, desde sus dos primeras intervenciones en las Cortes de 1898, hasta su último discurso pronunciado en el hemiciclo
-			del Congreso, ya en las postrimerías de las primeras Cortes ordinarias de la Segunda República, el 24 de octubre de 1935. Casi siete
-			lustros de una intensa y brillante trayectoria parlamentaria en la que fundó el Partido Reformista (1912) y que culminó con la elección
-			para la Presidencia del Congreso en las Cortes de 1923. Sus ideas y principios liberales preconizados hace más de un siglo se recogen
-			hoy en nuestra Constitución de 1978, lo que hace que sus intervenciones sean un texto actual para conocer nuestra reciente historia política. </p>
+            <div class="publicaciones">
+                <h1>Autores:</h1>
+                <p>Manuel Alvarez-Buylla Ballesteros, José Antonio García Pérez y Miguel Ángel Villanueva Valdés</p>
+            </div>
 
-            <p>La presente edición está a cargo de su bisnieto Manuel Alvarez-Buylla Ballesteros, y de los investigadores José Antonio García Pérez y
-			Miguel Angel Villanueva Valdés. Aparte de las intervenciones de D. Melquíades en el Congreso, se han incluido las contestaciones de otros
-			oradores y las rectificaciones pronunciadas por el tribuno asturiano, lo que posibilita un análisis completo del debate político de gran
-			utilidad para los investigadores. Se ilustra la obra con fotografías inéditas y caricaturas de la época.</p>
+            <div class="publicaciones">
+                <h1>Categoría:</h1>
+                <p>Historia política española, siglo XX.</p>
+            </div>
+
+            <div class="publicaciones">
+                <p>Melquíades Alvarez (Gijón, 1864-1936) es considerado una de las más altas cimas de la oratoria parlamentaria de todos los tiempos.
+                Por primera vez se editan íntegras sus intervenciones pronunciadas en el Congreso de los Diputados, recogidas taquigráficamente en los
+                Diarios de Sesiones, desde sus dos primeras intervenciones en las Cortes de 1898, hasta su último discurso pronunciado en el hemiciclo
+                del Congreso, ya en las postrimerías de las primeras Cortes ordinarias de la Segunda República, el 24 de octubre de 1935. Casi siete
+                lustros de una intensa y brillante trayectoria parlamentaria en la que fundó el Partido Reformista (1912) y que culminó con la elección
+                para la Presidencia del Congreso en las Cortes de 1923. Sus ideas y principios liberales preconizados hace más de un siglo se recogen
+                hoy en nuestra Constitución de 1978, lo que hace que sus intervenciones sean un texto actual para conocer nuestra reciente historia política. </p>
+
+                <p>La presente edición está a cargo de su bisnieto Manuel Alvarez-Buylla Ballesteros, y de los investigadores José Antonio García Pérez y
+                Miguel Angel Villanueva Valdés. Aparte de las intervenciones de D. Melquíades en el Congreso, se han incluido las contestaciones de otros
+                oradores y las rectificaciones pronunciadas por el tribuno asturiano, lo que posibilita un análisis completo del debate político de gran
+                utilidad para los investigadores. Se ilustra la obra con fotografías inéditas y caricaturas de la época.</p>
+            </div>
+
+            <div class="imagen-pie">
+                <img title="discursos-parlamentarios-melquiades" src="images/discursos-parlamentarios-presentacion-congreso.jpg" alt="Presentación congreso discursos parlamentarios Melquiades"  />
+                <p>22.04.2009 Presentación en el Congreso de los Diputados</p>
+            </div>
 
             </div><!-- estilo-contenido -->
     </article>

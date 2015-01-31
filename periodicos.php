@@ -26,7 +26,7 @@
                     </li>
                     <li class="elemento_no_selec"><a href="docencia.php">Docencia</a></li>
                     <li class="elemento_no_selec"><a href="conferencias.php">Conferencias</a></li>
-                    <li class="elemento_seleccionado"><a href="periodicos.php">Prensa</a>
+                    <li class="elemento_seleccionado"><a href="radio.php">Prensa</a>
                         <ul class='submenu'>
                             <li class="elemento_seleccionado"><a href="periodicos.php">Peri&oacute;dicos</a></li>
                             <li class="elemento_no_selec"><a href="radio.php">Radio</a></li>
@@ -51,8 +51,10 @@
                 <!-- Contenido principal -->
                 <p><strong>Periódicos</strong><br/>
 
-                <h1>Diario ABC, 20-05-2013</h1>
-                <p>Victor Fairén Guillen: un gran procesalista</p><br>
+                <div class="publicaciones">
+                    <h1>Diario ABC, 20-05-2013</h1>
+                    <p><a href="docs/victor-fairen.pdf" target="_blank">Victor Fairén Guillen: un gran procesalista</a></p>
+                </div>
 
             </div><!-- estilo-contenido -->
         </article>
