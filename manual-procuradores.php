@@ -49,7 +49,7 @@
         <div class="estilo-contenido libros">
 
             <!-- Contenido principal -->
-            <p><img class="derecha" title="manual_procuradores" src="images/manual_procuradores.jpg" alt="Manual de procuradores" width="260" height="260" /><strong>Manual de Procuradores. Derecho Procesal práctico con esquemas, escritos y resoluciones judiciales.
+            <p><img class="derecha" title="manual_procuradores" src="images/manual_procuradores-rot.png" alt="Manual de procuradores" width="260px" height="260px" /><strong>Manual de Procuradores. Derecho Procesal práctico con esquemas, escritos y resoluciones judiciales.
                 </strong><br/>
 
             <div class="publicaciones">

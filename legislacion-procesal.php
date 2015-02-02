@@ -49,7 +49,7 @@
         <div class="estilo-contenido libros">
 
             <!-- Contenido principal -->
-            <p><img class="derecha" title="home_main" src="images/legislacion-procesal-española.jpg" alt="Foto del libro en fondo gris claro y torcido" width="260" height="243" />
+            <p><img class="derecha" title="home_main" src="images/legislacion-procesal-española-rot.png" alt="Foto del libro en fondo gris claro y torcido" width="260px" height="260px" />
                 <strong>Legislación española procesal para Procuradores de los Tribunales, comentarios, concordancias y Jurisprudencia. </strong><br/>
 
             <div class="publicaciones">

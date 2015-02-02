@@ -48,7 +48,7 @@
     <article class="articulo">
         <div class="estilo-contenido">
 
-			<p><img class="derecha" title="titular" src="images/Titular_Manuel_ Alvarez-Buylla_b&w.jpg" alt="Manuel Alvarez-Buylla" width="260" height="260" />	
+			<p><img class="derecha" title="titular" src="images/Titular_Manuel_ Alvarez-Buylla_b&w.jpg" alt="Manuel Alvarez-Buylla" width="260px" height="260px" />	
             <!-- Contenido principal -->
             <p><strong>Manuel Alvarez-Buylla Ballesteros</strong></p>
             <p><strong>Procurador de los Tribunales y especialista en derecho procesal</strong></p>

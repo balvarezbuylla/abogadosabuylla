@@ -49,7 +49,7 @@
         <div class="estilo-contenido libros">
 
             <!-- Contenido principal -->
-            <p><img class="derecha" title="tesis_doctoral" src="images/Tesis_doctoral_inedita_Melquiades_Alvarez.jpg" alt="Tesis doctoral inedita Melquiades Alvarez" width="260" height="260" />
+            <p><img class="derecha" title="tesis_doctoral" src="images/Tesis_doctoral_inedita_Melquiades_Alvarez-rot.png" alt="Tesis doctoral inedita Melquiades Alvarez" width="260px" height="260px" />
                 <strong>Tesis doctoral inédita de Melquíades Alvarez. </strong><br/>
 
             <div class="publicaciones">

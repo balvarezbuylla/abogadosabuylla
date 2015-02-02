@@ -49,7 +49,7 @@
             <div class="estilo-contenido">
 
                 <!-- Contenido principal -->
-                <p><img class="derecha" title="Foto cadena ser" src="images/radio-cadena-SER.JPG" alt="Foto cadena ser" width="260" height="243" />
+                <p><img class="derecha" title="Foto cadena ser" src="images/radio-cadena-SER.JPG" alt="Foto cadena ser" width="260px" height="260px" />
                     <strong>Radio</strong>
                 </p><br/>
 

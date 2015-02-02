@@ -49,7 +49,7 @@
             <div class="estilo-contenido">
 
                 <!-- Contenido principal -->
-                <p><img class="derecha" title="home_main" src="images/volando.png" alt="Foto ipad y butaca" width="260" height="243" /><strong>Publicaciones recientes</strong><br/>
+                <p><img class="derecha" title="home_main" src="images/volando.png" alt="Foto ipad y butaca" width="260px" height="260px" /><strong>Publicaciones recientes</strong><br/>
 
                 <div class="publicaciones">
                     <h1>Práctica de Tribunales, marzo-abril 2015 </h1>

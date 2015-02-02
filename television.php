@@ -49,7 +49,7 @@
         <div class="estilo-contenido">
 
             <!-- Contenido principal -->
-            <p><img class="derecha" title="Foto entrevista tv" src="images/entrevista-tv.png" alt="Foto entrevista tv" width="260" height="243" />
+            <p><img class="derecha" title="Foto entrevista tv" src="images/entrevista-tv.png" alt="Foto entrevista tv" width="260px" height="260px" />
             <p><strong>Televisión</strong><br/>
 
             <div class="publicaciones">

@@ -49,24 +49,41 @@
 				<div class="estilo-contenido">			
 					
 				<!-- Contenido principal -->
-                    <p><img class="derecha" title="home_main" src="images/volando.png" alt="Foto iphone" width="260" height="243" /><strong>Newsletters</strong><br/>
-					<p>Mantenemos una vigilancia especial sobre las reformas de la legislación procesal que se aprueban por las Cortes y sobre los proyectos de ley.
-					 Asimismo, prestamos especial atención a las sentencias dictadas en materia de derecho procesal.</p>
-					<p>Remitimos a nuestros abogados boletines periódicos subrayando la atención a las novedades más significativas  que puedan afectar a los distintos procedimientos.</p>
-					
-					<h1>Histórico de materias<h1>
-					<p><b>06.10.2014</b> Criterios AEAT sobre aplicación de la tasa judiciales</p>
-					<p><b>30.10.2013</b> Comentario a la Sentencia del Tribunal Constitucional 90/13 de 22 de abril</p>
-					<p><b>25.11.2012</b> Apuntes sobre la Ley 10/12 de tasas judiciales</p>
-					<p><b>02.04.2012</b> Nuevas disposiciones para la solicitud de embargo de cuentas corrientes</p>
-					<p><b>31.10.2011</b> Novedades de la Ley 37/11 de medidas de agilización procesal</p>
-					<p><b>05.05.2011</b> Criterios de admisión de los recursos de casación por el Tribunal Supremo</p>
-					<p><b>10.12.2009</b> Reformas de la Ley 19/09 de agilización de los juicios de desahucio</p>
-					<p><b>04.09.2009</b> Cuadro de los depósitos para recurrir exigidos por la L.O. 1/09</p>
+                    <p><img class="derecha" title="home_main" src="images/newsletter.jpg" alt="Foto iphone" width="260px" height="260px" /><strong>Newsletters</strong><br/>
 
+                        <p>Mantenemos una vigilancia especial sobre las reformas de la legislación procesal que se aprueban por las Cortes y sobre los proyectos de ley.
+                         Asimismo, prestamos especial atención a las sentencias dictadas en materia de derecho procesal.</p>
+                        <p>Remitimos a nuestros abogados boletines periódicos subrayando la atención a las novedades más significativas  que puedan afectar a los distintos procedimientos.</p>
+
+                    <div class="newsletter">
+                        <h1>Histórico de materias</h1>
+                        <p>Consultas AEAT sobre aplicación de las tasas judiciales</p>
+                        <p><a href="docs/sentencia-tribunal-constitucional.pdf" target="_blank">Sentencia del Tribunal Constitucional 90/13 de 22 de abril declarando no válido un poder otorgado con posterioridad a la actuación de Procurador </a></p>
+                        <p><a href="docs/embargo-cuentas.pdf" target="_blank"> Solicitud de embargo de cuentas corrientes del deudor</a></p>
+                        <p>Criterios de admisión de los recursos de casación establecidos por el Tribunal Supremo</p>
+                        <p><a href="docs/consignaciones-judiciales.pdf" target="_blank">Modo de realización de consignaciones en cuentas de los Juzgados y tribunales</a></p>
+                        <p><a href="docs/depositos-para-recurrir.pdf" target="_blank">Cuadro de los depósitos para recurrir en todos los órdenes judiciales</a></p>
+                        <p><a href="docs/procesos-desahucio.pdf" target="_blank">Addenda sobre la agilización de los procesos de desahucio</a></p>
+                    </div>
 				</div><!-- estilo-contenido -->
 			</article>
 		</div><!-- contenido -->					
 </div><!-- page -->
 
     <?php include('footer.php'); ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

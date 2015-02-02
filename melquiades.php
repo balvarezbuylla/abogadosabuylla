@@ -49,7 +49,7 @@
         <div class="estilo-contenido libros">
 
             <!-- Contenido principal -->
-            <p><img class="derecha" title="discursos-parlametarios-melquiades" src="images/discursos-parlamentarios-melquiades.jpg" alt="Discursos parlamentarios Melquiades" width="260" height="243" /><strong>Melquíades  Alvarez. Discursos parlamentarios
+            <p><img class="derecha" title="discursos-parlametarios-melquiades" src="images/discursos-parlamentarios-melquiades-rot.png" alt="Discursos parlamentarios Melquiades" width="260px" height="260px" /><strong>Melquíades  Alvarez. Discursos parlamentarios
                 </strong><br/>
 
             <div class="publicaciones">

@@ -194,7 +194,7 @@ header
 	float: left;
 	position: relative; 
 	border-right: 1px solid #e2e5e8; 
-	border:none !important;
+	border:none;
 }
 
 .menu #nav-sec{
@@ -213,9 +213,9 @@ header
 	width: 1025px;
 	height: 54px;
 	margin: 0 0 10px 0;
-	background-image:url('../images/fondo_menu_ppal.png') !important;
-	background: #ffffff;
-	border: 1px solid #ffffff;
+	background-image:url('../images/fondo_menu_ppal.png');
+	/*background: #ffffff;*/
+	/*border: 1px solid #ffffff;*/
 }
 
 #nav-sec {
@@ -231,45 +231,45 @@ header
 
 .menu #nav-sec .elemento_seleccionado ul.submenu,
 .menu #nav-sec .elemento_seleccionado ul.submenu li{
-	display: block !important;
-	visibility:visible !Important;
-	z-index:999 !important;
-	background: transparent !important;
+	display: block;
+	visibility:visible;
+	z-index:9999;
+	background: transparent;
 }
 .menu #nav-sec ul ul,
 .menu #nav-sec .elemento_seleccionado ul.submenu
 {
-	background-image:url('../images/fondo_menu_sec.png') !important;
-	padding-left:15px !important;
+	background-image:url('../images/fondo_menu_sec.png');
+	padding-left:15px ;
 	width: 1012px;
 	height: 47px;
-	margin-top:-10px !important;/*-6*/
+	margin-top:-10px;/*-6*/
 }
 
 .menu #nav-sec ul ul.submenu_grande,
 .menu #nav-sec .elemento_seleccionado ul.submenu_grande
 {
-	background-image:url('../images/fondo_menu_sec_big.png') !important;
-	padding-left:15px !important;
+	background-image:url('../images/fondo_menu_sec_big.png');
+	padding-left:15px;
 	width: 1012px;
 	height: 60px;
-	margin-top:-10px !important;/*-6*/
+	margin-top:-10px ;/*-6*/
 }
 
-.menu #nav-sec .elemento_seleccionado a
+.menu #nav-sec .elemento_seleccionado a, 
+.menu #nav-sec .elemento_seleccionado li.elemento_seleccionado a, 
+.menu #nav-sec .elemento_seleccionado li a
 {
-	font-weight:normal !important;
+	font-weight:normal;
 }
 
 
 .menu #nav-sec .elemento_seleccionado li.elemento_seleccionado a
 {
-	font-weight:normal !important;
 	color: #004165 !important;
 }
 
 .menu #nav-sec .elemento_seleccionado li a{
-	font-weight:normal !important;
 	color: #597c8e !important;
 }
 
@@ -293,7 +293,7 @@ header
 	display: block;
 	line-height: 30px;
 	text-decoration: none;
-	padding: 5px 14px 0px 13px !important;
+	padding: 5px 14px 0px 13px ;
 }
 
 #nav-sec ul ul {
@@ -304,24 +304,22 @@ header
 	top: 43px;
 	left: 0;
 	z-index: 99999;
-	background-color:transparent !important;
+	background-color:transparent;
 }
 
 #nav-sec ul a{
-	background: transparent !important;
-	padding-top:3px !important;
+	background: transparent ;
+	padding-top:3px ;
 }
 #nav-sec ul ul a{
-	border: none !important;
-	color: #597c8e !important;
+	border: none ;
+	color: #597c8e ;
 	font-size: 12px;
 	font-weight: normal;
 	height: auto;
 	line-height: 17px;
 	padding: 13px 15px !important;
 	width: auto;
-	background: #ffffff; 
-	border-bottom: 2px groove #ffffff;
 }
 
 #nav-sec ul a:hover,
@@ -394,16 +392,20 @@ header
 	color: #4f5559;
 }
 
+.estilo-contenido a,
+.estilo-contenido a:hover
+{
+	text-decoration:none;
+}
+
 .estilo-contenido a
 {
-	color:#597c8e !important;
-	text-decoration:none !important;
+	color:#597c8e ;
 }
 
 .estilo-contenido a:hover
 {
-	color:#004165 !important;
-	text-decoration:none !important;
+	color:#004165 ;
 }
 
 .libros h1
@@ -439,10 +441,9 @@ p img
 	float:left;
 	width: 100%;
 	min-width:1024px;
-	background-image: url('../images/footer.jpg');
-	margin-bottom: 0px;
 	height:57px;
-	background-repeat:repeat !important;
+	background: url('../images/footer.jpg') repeat;
+	margin-bottom: 0px;
 	position:relative;
 	top:40px;
 }
@@ -462,18 +463,13 @@ p img
 {
 	font-weight: bold;
 	color:#597c8e;
-	text-decoration:none !important;
+	text-decoration:none;
 }
 
 #pie_de_pagina 
 {
 	clear: both;
 }
-
-.active a{
-    color:#004165 !important
-}
-
 
 .publicaciones p {
     margin-bottom: 18px;
@@ -513,6 +509,14 @@ p img
 .estilo-contenido iframe{
     margin-top: 50px;
     margin-left: 13px;
+}
+
+.newsletter {
+    margin-top: 28px
+}
+
+.newsletter h1 {
+    margin-bottom: 14px;
 }
 
 

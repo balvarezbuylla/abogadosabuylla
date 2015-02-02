@@ -49,7 +49,7 @@
         <div class="estilo-contenido libros">
 
             <!-- Contenido principal -->
-            <p><img class="derecha" title="otros-libros" src="images/libros_transparent.png" alt="libros" width="260" height="243" /><strong>Colaboraciones en otras monografías</strong><br/>
+            <p><img class="derecha" title="otros-libros" src="images/libros.png" alt="libros" width="260px" height="260px" /><strong>Colaboraciones en otras monografías</strong><br/>
 
             <div class="otros">
                 <h1>Libro:</strong></h1>

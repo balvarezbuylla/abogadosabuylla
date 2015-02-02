@@ -2,6 +2,8 @@
 <html lang="es">
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="ALVAREZ-BUYLLA PROCURADORES. Especialistas en procedimientos mercantiles, civiles y contencioso-admvos " />
+
     <title>ALVAREZ-BUYLLA PROCURADORES</title>
     <link rel="shortcut icon" href="" type="image/x-icon">
     <link rel="icon" href="" type="image/x-icon">
@@ -35,7 +37,7 @@
         <a href="index.php">
             <p class="t1">ALVAREZ-BUYLLA PROCURADORES </p><br>
             <p class="t2">Especialistas en procedimientos mercantiles, civiles y contencioso-admvos </p><br>
-            <p class="t3">Vigilatibus iura subveniunt</p><br>
+            <p class="t3">Vigilantibus iura subveniunt</p><br>
         </a>
     </div>
 </header>

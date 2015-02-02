@@ -49,7 +49,7 @@
         <div class="estilo-contenido libros">
 
             <!-- Contenido principal -->
-            <p><img class="derecha" title="otros-libros" src="images/conferencias.JPG" alt="tribuna" width="260" height="243" /><strong>Conferencias</strong></p><br/>
+            <p><img class="derecha" title="otros-libros" src="images/conferencias.JPG" alt="tribuna" width="260px" height="260px" /><strong>Conferencias</strong></p><br/>
 
             <div class="publicaciones">
                 <h1>Universidad Autónoma de Madrid. 11.04.2013</h1>
