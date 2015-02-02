@@ -49,7 +49,7 @@
 			<article class="articulo">
 				<div class="estilo-contenido">		
 					<!-- Contenido principal -->
-					<p><img class="derecha" title="home_main" src="images/volando.png" alt="Foto sentado escritorio" width="260px" height="260px" /><strong>Despacho de Procuradores de los Tribunales especialistas en procedimientos judiciales mercantiles, civiles y contencioso-administrativos.</strong><br/>
+					<p><img class="derecha" title="home_main" src="images/Titular_Manuel_%20Alvarez-Buylla_b&w.jpg" alt="Foto sentado escritorio" width="260px" height="260px" /><strong>Despacho de Procuradores de los Tribunales especialistas en procedimientos judiciales mercantiles, civiles y contencioso-administrativos.</strong><br/>
 					<p>Nuestro despacho de Procuradores act&uacute;a ante todos los &oacute;rganos judiciales del partido judicial de Madrid Capital.</p>
 					<p>Estamos especializados en todo tipo de procedimientos mercantiles, civiles y contencioso-administrativos, as&iacute; como para la interposici&oacute;n de recursos de apelaci&oacute;n, casaci&oacute;n e infracci&oacute;n procesal en todos los &oacute;rdenes judiciales, y en el recurso de amparo constitucional para la protecci&oacute;n de los derechos fundamentales.</p>
 					

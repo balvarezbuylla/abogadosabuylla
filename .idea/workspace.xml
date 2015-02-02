@@ -2,39 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aac3ff3a-01c2-4f9c-a036-94e06d5c96ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Tesis_doctoral_inedita_Melquiades_Alvarez-rot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/agilizacion-eficacia-procesos-Revista-La-Ley.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/consignaciones-judiciales.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/depositos-para-recurrir.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/discursos-parlamentarios-melquiades-rot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/embargo-cuentas.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/estudios-justicia-rot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/legislacion-procesal-española-rot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/manual_procuradores-rot.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/newsletter.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/procesos-desahucio.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/sentencia-tribunal-constitucional.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/construccion.phtml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/hpothb07.dat" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cabecera.php" afterPath="$PROJECT_DIR$/cabecera.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conferencias.php" afterPath="$PROJECT_DIR$/conferencias.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/construccion.html" afterPath="$PROJECT_DIR$/construccion.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contacto.php" afterPath="$PROJECT_DIR$/contacto.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/especialidad.php" afterPath="$PROJECT_DIR$/especialidad.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/estilos.css" afterPath="$PROJECT_DIR$/css/estilos.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Conferencias.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Conferencias.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Tesis_doctoral_inedita_Melquiades_Alvarez.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Titular_Manuel_ Alvarez-Buylla.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/discursos-parlamentarios-melquiades.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/legislacion-procesal-española.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/manual_procuradores.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/volando.PNG" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/discursos-parlamentarios-presentacion-congreso.jpg" afterPath="$PROJECT_DIR$/images/discursos-parlamentarios-presentacion-congreso.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tesis-doctoral-inedita-presentacion.jpg" afterPath="$PROJECT_DIR$/images/tesis-doctoral-inedita-presentacion.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legislacion-procesal.php" afterPath="$PROJECT_DIR$/legislacion-procesal.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manual-procuradores.php" afterPath="$PROJECT_DIR$/manual-procuradores.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/melquiades.php" afterPath="$PROJECT_DIR$/melquiades.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newsletters.php" afterPath="$PROJECT_DIR$/newsletters.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/otros.php" afterPath="$PROJECT_DIR$/otros.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publicaciones.php" afterPath="$PROJECT_DIR$/publicaciones.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/radio.php" afterPath="$PROJECT_DIR$/radio.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/submenu.js" afterPath="$PROJECT_DIR$/js/submenu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/television.php" afterPath="$PROJECT_DIR$/television.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tesis-doctoral.php" afterPath="$PROJECT_DIR$/tesis-doctoral.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/titular.php" afterPath="$PROJECT_DIR$/titular.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="abogadosabuylla.iws" />
@@ -58,10 +36,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="newsletters.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="newsletters.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newsletters.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="84" selection-start="3468" selection-end="3468" vertical-scroll-proportion="0.123222746" vertical-offset="687" max-vertical-offset="1425">
+            <state line="51" column="84" selection-start="3468" selection-end="3468" vertical-scroll-proportion="-3.25" vertical-offset="687" max-vertical-offset="1425">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="114" selection-start="3480" selection-end="3480" vertical-scroll-proportion="0.38388625" vertical-offset="522" max-vertical-offset="1155">
               <folding />
             </state>
           </provider>
@@ -93,7 +80,6 @@
         <option value="$PROJECT_DIR$/contencioso-administrativo.php" />
         <option value="$PROJECT_DIR$/docencia.php" />
         <option value="$PROJECT_DIR$/especialidad.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/legislacion-procesal.php" />
         <option value="$PROJECT_DIR$/manual-procuradores.php" />
         <option value="$PROJECT_DIR$/melquiades.php" />
@@ -113,6 +99,7 @@
         <option value="$PROJECT_DIR$/cabecera.php" />
         <option value="$PROJECT_DIR$/css/estilos.css" />
         <option value="$PROJECT_DIR$/newsletters.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -353,7 +340,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/newsletters.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="84" selection-start="3468" selection-end="3468" vertical-scroll-proportion="0.123222746" vertical-offset="687" max-vertical-offset="1425">
+        <state line="51" column="84" selection-start="3468" selection-end="3468" vertical-scroll-proportion="-3.25" vertical-offset="687" max-vertical-offset="1425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="114" selection-start="3480" selection-end="3480" vertical-scroll-proportion="0.38388625" vertical-offset="522" max-vertical-offset="1155">
           <folding />
         </state>
       </provider>
