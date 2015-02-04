@@ -2,17 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aac3ff3a-01c2-4f9c-a036-94e06d5c96ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Conferencias.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Conferencias.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Tesis_doctoral_inedita_Melquiades_Alvarez.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/Titular_Manuel_ Alvarez-Buylla.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/discursos-parlamentarios-melquiades.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/legislacion-procesal-española.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/manual_procuradores.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/volando.PNG" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/discursos-parlamentarios-presentacion-congreso.jpg" afterPath="$PROJECT_DIR$/images/discursos-parlamentarios-presentacion-congreso.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/tesis-doctoral-inedita-presentacion.jpg" afterPath="$PROJECT_DIR$/images/tesis-doctoral-inedita-presentacion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/docencia.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/entrevista-tv.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/especializacion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/home.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/docs/la-accion-popular-penal.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/publicaciones.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/television.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/entrevista-tv.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/radio-cadena-SER.jpg" afterPath="$PROJECT_DIR$/images/radio-cadena-SER.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/periodicos.php" afterPath="$PROJECT_DIR$/prensa.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Conferencias.jpg" afterPath="$PROJECT_DIR$/images/Conferencias.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/Titular_Manuel_ Alvarez-Buylla_b&amp;w.jpg" afterPath="$PROJECT_DIR$/images/Titular_Manuel_ Alvarez-Buylla_b&amp;w.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/agilizacion-eficacia-procesos-Revista-La-Ley.pdf" afterPath="$PROJECT_DIR$/docs/agilizacion-eficacia-procesos-Revista-La-Ley.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/consignaciones-judiciales.pdf" afterPath="$PROJECT_DIR$/docs/consignaciones-judiciales.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/depositos-para-recurrir.pdf" afterPath="$PROJECT_DIR$/docs/depositos-para-recurrir.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/legislacion-procesal-española-presentacion.jpg" afterPath="$PROJECT_DIR$/images/legislacion-procesal-española-presentacion.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/newsletter.jpg" afterPath="$PROJECT_DIR$/images/newsletter.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/procesos-desahucio.pdf" afterPath="$PROJECT_DIR$/docs/procesos-desahucio.pdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aviso-legal.php" afterPath="$PROJECT_DIR$/aviso-legal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/civil.php" afterPath="$PROJECT_DIR$/civil.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conferencias.php" afterPath="$PROJECT_DIR$/conferencias.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/construccion.html" afterPath="$PROJECT_DIR$/construccion.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/construccion.phtml" afterPath="$PROJECT_DIR$/construccion.phtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contacto.php" afterPath="$PROJECT_DIR$/contacto.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contencioso-administrativo.php" afterPath="$PROJECT_DIR$/contencioso-administrativo.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docencia.php" afterPath="$PROJECT_DIR$/docencia.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/especialidad.php" afterPath="$PROJECT_DIR$/especialidad.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/estilos.css" afterPath="$PROJECT_DIR$/css/estilos.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/legislacion-procesal.php" afterPath="$PROJECT_DIR$/legislacion-procesal.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manual-procuradores.php" afterPath="$PROJECT_DIR$/manual-procuradores.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/melquiades.php" afterPath="$PROJECT_DIR$/melquiades.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mercantil.php" afterPath="$PROJECT_DIR$/mercantil.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/newsletters.php" afterPath="$PROJECT_DIR$/newsletters.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/otros.php" afterPath="$PROJECT_DIR$/otros.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/privacidad.php" afterPath="$PROJECT_DIR$/privacidad.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publicaciones.php" afterPath="$PROJECT_DIR$/publicaciones.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/radio.php" afterPath="$PROJECT_DIR$/radio.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/recursos.php" afterPath="$PROJECT_DIR$/recursos.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/television.php" afterPath="$PROJECT_DIR$/television.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tesis-doctoral.php" afterPath="$PROJECT_DIR$/tesis-doctoral.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/titular.php" afterPath="$PROJECT_DIR$/titular.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="abogadosabuylla.iws" />
@@ -36,19 +67,73 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="newsletters.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newsletters.php">
+      <file leaf-file-name="prensa.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/prensa.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="84" selection-start="3468" selection-end="3468" vertical-scroll-proportion="-3.25" vertical-offset="687" max-vertical-offset="1425">
+            <state line="65" column="149" selection-start="4276" selection-end="4276" vertical-scroll-proportion="-13.25" vertical-offset="657" max-vertical-offset="1410">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="114" selection-start="3480" selection-end="3480" vertical-scroll-proportion="0.38388625" vertical-offset="522" max-vertical-offset="1155">
+            <state line="51" column="82" selection-start="3433" selection-end="3433" vertical-scroll-proportion="-15.625" vertical-offset="390" max-vertical-offset="1155">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="especialidad.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/especialidad.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="93" selection-start="3447" selection-end="3447" vertical-scroll-proportion="-15.125" vertical-offset="402" max-vertical-offset="1035">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="publicaciones.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/publicaciones.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="100" column="128" selection-start="6614" selection-end="6614" vertical-scroll-proportion="-21.25" vertical-offset="990" max-vertical-offset="1710">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contacto.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contacto.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="145" selection-start="3507" selection-end="3507" vertical-scroll-proportion="0.49763033" vertical-offset="450" max-vertical-offset="1185">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="docencia.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docencia.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="65" column="228" selection-start="4604" selection-end="4604" vertical-scroll-proportion="-3.25" vertical-offset="897" max-vertical-offset="2040">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="television.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/television.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="51" column="85" selection-start="3463" selection-end="3463" vertical-scroll-proportion="-24.375" vertical-offset="180" max-vertical-offset="1320">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="radio.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/radio.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="92" selection-start="2600" selection-end="2600" vertical-scroll-proportion="-0.625" vertical-offset="465" max-vertical-offset="1440">
               <folding />
             </state>
           </provider>
@@ -73,33 +158,34 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/aviso_leg.php" />
         <option value="$PROJECT_DIR$/construccion.php" />
-        <option value="$PROJECT_DIR$/construccion.html" />
+        <option value="$PROJECT_DIR$/periodicos.php" />
+        <option value="$PROJECT_DIR$/js/submenu.js" />
+        <option value="$PROJECT_DIR$/cabecera.php" />
+        <option value="$PROJECT_DIR$/css/estilos.css" />
         <option value="$PROJECT_DIR$/aviso-legal.php" />
         <option value="$PROJECT_DIR$/civil.php" />
         <option value="$PROJECT_DIR$/conferencias.php" />
+        <option value="$PROJECT_DIR$/construccion.html" />
+        <option value="$PROJECT_DIR$/construccion.phtml" />
         <option value="$PROJECT_DIR$/contencioso-administrativo.php" />
-        <option value="$PROJECT_DIR$/docencia.php" />
-        <option value="$PROJECT_DIR$/especialidad.php" />
         <option value="$PROJECT_DIR$/legislacion-procesal.php" />
         <option value="$PROJECT_DIR$/manual-procuradores.php" />
         <option value="$PROJECT_DIR$/melquiades.php" />
         <option value="$PROJECT_DIR$/mercantil.php" />
+        <option value="$PROJECT_DIR$/newsletters.php" />
         <option value="$PROJECT_DIR$/otros.php" />
         <option value="$PROJECT_DIR$/privacidad.php" />
-        <option value="$PROJECT_DIR$/publicaciones.php" />
+        <option value="$PROJECT_DIR$/radio.php" />
         <option value="$PROJECT_DIR$/recursos.php" />
         <option value="$PROJECT_DIR$/tesis-doctoral.php" />
         <option value="$PROJECT_DIR$/titular.php" />
-        <option value="$PROJECT_DIR$/radio.php" />
-        <option value="$PROJECT_DIR$/television.php" />
-        <option value="$PROJECT_DIR$/periodicos.php" />
-        <option value="$PROJECT_DIR$/contacto.php" />
-        <option value="$PROJECT_DIR$/js/submenu.js" />
-        <option value="$PROJECT_DIR$/construccion.phtml" />
-        <option value="$PROJECT_DIR$/cabecera.php" />
-        <option value="$PROJECT_DIR$/css/estilos.css" />
-        <option value="$PROJECT_DIR$/newsletters.php" />
+        <option value="$PROJECT_DIR$/prensa.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/especialidad.php" />
+        <option value="$PROJECT_DIR$/docencia.php" />
+        <option value="$PROJECT_DIR$/television.php" />
+        <option value="$PROJECT_DIR$/publicaciones.php" />
+        <option value="$PROJECT_DIR$/contacto.php" />
       </list>
     </option>
   </component>
@@ -171,6 +257,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="abogadosabuylla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="abogadosabuylla" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -225,7 +325,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26680973" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27038628" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -233,11 +333,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -257,97 +357,184 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cabecera.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="4.875" vertical-offset="117" max-vertical-offset="750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/aviso-legal.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1440">
+        <state line="30" column="85" selection-start="2397" selection-end="2397" vertical-scroll-proportion="-10.625" vertical-offset="195" max-vertical-offset="1440">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery-1.11.2.js">
+    <entry file="file://$PROJECT_DIR$/civil.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="155280">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery-2.1.3.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="138165">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/submenu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="71" selection-end="71" vertical-scroll-proportion="0.06716418" vertical-offset="0" max-vertical-offset="670">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/construccion.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="5726" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1815">
+        <state line="30" column="85" selection-start="2405" selection-end="2405" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="1200">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conferencias.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="12" selection-start="7053" selection-end="7085" vertical-scroll-proportion="-21.375" vertical-offset="1257" max-vertical-offset="1890">
+        <state line="30" column="85" selection-start="2401" selection-end="2401" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="1890">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/construccion.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="76" selection-start="3845" selection-end="3845" vertical-scroll-proportion="-6.875" vertical-offset="900" max-vertical-offset="1815">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/construccion.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="2" selection-start="3722" selection-end="3722" vertical-scroll-proportion="-22.0" vertical-offset="507" max-vertical-offset="1140">
+        <state line="32" column="76" selection-start="2151" selection-end="2151" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="1140">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cabecera.php">
+    <entry file="file://$PROJECT_DIR$/contencioso-administrativo.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="67" selection-start="181" selection-end="181" vertical-scroll-proportion="-0.625" vertical-offset="45" max-vertical-offset="750">
+        <state line="30" column="85" selection-start="2405" selection-end="2405" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="1155">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/ie.css">
+    <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="670">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="634">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/publicaciones.php">
+    <entry file="file://$PROJECT_DIR$/legislacion-procesal.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="26.25" vertical-offset="630" max-vertical-offset="1710">
+        <state line="30" column="85" selection-start="2405" selection-end="2405" vertical-scroll-proportion="-5.0" vertical-offset="330" max-vertical-offset="1635">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/estilos.css">
+    <entry file="file://$PROJECT_DIR$/manual-procuradores.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="519" column="1" selection-start="7386" selection-end="7386" vertical-scroll-proportion="0.0" vertical-offset="7183" max-vertical-offset="7950">
+        <state line="30" column="85" selection-start="2405" selection-end="2405" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="1830">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/melquiades.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="85" selection-start="2405" selection-end="2405" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="1650">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mercantil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="85" selection-start="2405" selection-end="2405" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="1065">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/newsletters.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="84" selection-start="3468" selection-end="3468" vertical-scroll-proportion="-3.25" vertical-offset="687" max-vertical-offset="1425">
+        <state line="30" column="85" selection-start="2401" selection-end="2401" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="1425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/otros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="85" selection-start="2405" selection-end="2405" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="1620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/privacidad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="85" selection-start="2397" selection-end="2397" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recursos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="85" selection-start="2405" selection-end="2405" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="1200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tesis-doctoral.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="85" selection-start="2405" selection-end="2405" vertical-scroll-proportion="-18.75" vertical-offset="0" max-vertical-offset="1785">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/titular.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="85" selection-start="2401" selection-end="2401" vertical-scroll-proportion="0.7109005" vertical-offset="0" max-vertical-offset="1620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prensa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="149" selection-start="4276" selection-end="4276" vertical-scroll-proportion="-13.25" vertical-offset="657" max-vertical-offset="1410">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="114" selection-start="3480" selection-end="3480" vertical-scroll-proportion="0.38388625" vertical-offset="522" max-vertical-offset="1155">
+        <state line="51" column="82" selection-start="3433" selection-end="3433" vertical-scroll-proportion="-15.625" vertical-offset="390" max-vertical-offset="1155">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/especialidad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="93" selection-start="3447" selection-end="3447" vertical-scroll-proportion="-15.125" vertical-offset="402" max-vertical-offset="1035">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docencia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="228" selection-start="4604" selection-end="4604" vertical-scroll-proportion="-3.25" vertical-offset="897" max-vertical-offset="2040">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/radio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="92" selection-start="2600" selection-end="2600" vertical-scroll-proportion="-0.625" vertical-offset="465" max-vertical-offset="1440">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/television.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="85" selection-start="3463" selection-end="3463" vertical-scroll-proportion="-24.375" vertical-offset="180" max-vertical-offset="1320">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/publicaciones.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100" column="128" selection-start="6614" selection-end="6614" vertical-scroll-proportion="-21.25" vertical-offset="990" max-vertical-offset="1710">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="145" selection-start="3507" selection-end="3507" vertical-scroll-proportion="0.49763033" vertical-offset="450" max-vertical-offset="1185">
           <folding />
         </state>
       </provider>

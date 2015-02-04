@@ -57,9 +57,9 @@ a:hover {
 body{
 	background: url(../images/img_principal.jpg) no-repeat 0px 185px;
 	padding: 0;
-	color: #373737;
 	font: 15px  Open Sans,"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight: 300;
+	color: #373737;
 	line-height: 1.625;
 }
 

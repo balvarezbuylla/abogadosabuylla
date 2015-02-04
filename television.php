@@ -26,9 +26,9 @@
                     </li>
                     <li class="elemento_no_selec"><a href="docencia.php">Docencia</a></li>
                     <li class="elemento_no_selec"><a href="conferencias.php">Conferencias</a></li>
-                    <li class="elemento_seleccionado"><a href="radio.php">Prensa</a>
+                    <li class="elemento_seleccionado"><a href="radio.php">Medios</a>
                         <ul class='submenu'>
-                            <li class="elemento_no_selec"><a href="periodicos.php">Peri&oacute;dicos</a></li>
+                            <li class="elemento_no_selec"><a href="prensa.php">Prensa</a></li>
                             <li class="elemento_no_selec"><a href="radio.php">Radio</a></li>
                             <li class="elemento_seleccionado"><a href="television.php">Televisi&oacute;n</a></li>
                         </ul>
@@ -49,7 +49,7 @@
         <div class="estilo-contenido">
 
             <!-- Contenido principal -->
-            <p><img class="derecha" title="Foto entrevista tv" src="images/entrevista-tv.png" alt="Foto entrevista tv" width="260px" height="260px" />
+            <p><img class="derecha" title="Foto entrevista tv" src="images/television.jpg" alt="Foto entrevista tv" width="260px" height="260px" />
             <p><strong>Televisión</strong><br/>
 
             <div class="publicaciones">

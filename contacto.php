@@ -26,9 +26,9 @@
                     </li>
                     <li class="elemento_no_selec"><a href="docencia.php">Docencia</a></li>
                     <li class="elemento_no_selec"><a href="conferencias.php">Conferencias</a></li>
-                    <li class="elemento_no_selec"><a href="radio.php">Prensa</a>
+                    <li class="elemento_no_selec"><a href="radio.php">Medios</a>
                         <ul class='submenu'>
-                            <li class="elemento_no_selec"><a href="periodicos.php">Peri&oacute;dicos</a></li>
+                            <li class="elemento_no_selec"><a href="prensa.php">Prensa</a></li>
                             <li class="elemento_no_selec"><a href="radio.php">Radio</a></li>
                             <li class="elemento_no_selec"><a href="television.php">Televisi&oacute;n</a></li>
                         </ul>
@@ -49,7 +49,7 @@
 				<div class="estilo-contenido">			
 					
 					<!-- Contenido principal -->
-					<p><img class="derecha" title="home_main" src="images/home.jpg" alt="Foto edificio vertical" width="260px" height="260px" /><strong>Contacto</strong><br/>
+					<p><img class="derecha" title="home_main" src="images/gran-via-78.JPG" alt="Foto edificio vertical" width="260px" height="355px" /><strong>Contacto</strong><br/>
 					<p>Nuestro horario de oficina es desde las 9:00 hrs hasta las 20:00 hrs.</p>
 					<p>También estamos disponibles para nuestros clientes y abogados fuera del horario de oficina, en casos de urgencia, en el teléfono +34 91 578 06 10.</p>
 					<p>Manuel Alvarez-Buylla Ballesteros</p>

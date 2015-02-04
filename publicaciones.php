@@ -26,9 +26,9 @@
                     </li>
                     <li class="elemento_no_selec"><a href="docencia.php">Docencia</a></li>
                     <li class="elemento_no_selec"><a href="conferencias.php">Conferencias</a></li>
-                    <li class="elemento_no_selec"><a href="radio.php">Prensa</a>
+                    <li class="elemento_no_selec"><a href="radio.php">Medios</a>
                         <ul class='submenu'>
-                            <li class="elemento_no_selec"><a href="periodicos.php">Peri&oacute;dicos</a></li>
+                            <li class="elemento_no_selec"><a href="prensa.php">Prensa</a></li>
                             <li class="elemento_no_selec"><a href="radio.php">Radio</a></li>
                             <li class="elemento_no_selec"><a href="television.php">Televisi&oacute;n</a></li>
                         </ul>
@@ -49,7 +49,7 @@
             <div class="estilo-contenido">
 
                 <!-- Contenido principal -->
-                <p><img class="derecha" title="home_main" src="images/volando.png" alt="Foto ipad y butaca" width="260px" height="260px" /><strong>Publicaciones recientes</strong><br/>
+                <p><img class="derecha" title="home_main" src="images/publicaciones.jpg" alt="Foto ipad y butaca" width="260px" height="260px" /><strong>Publicaciones recientes</strong><br/>
 
                 <div class="publicaciones">
                     <h1>Práctica de Tribunales, marzo-abril 2015 </h1>
@@ -98,7 +98,7 @@
 
                 <div class="publicaciones">
                     <h1>Economist & Jurist, núm. 128, marzo 2009 </h1>
-                    <p>La acción popular en el proceso penal</p>
+                    <p><a target="_blank" href="/docs/la-accion-popular-penal.pdf.pdf">La acción popular en el proceso penal</a></p>
                 </div>
 
             </div><!-- estilo-contenido -->
