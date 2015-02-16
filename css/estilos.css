@@ -203,7 +203,7 @@ header
 
 .menu #nav-sec li.elemento_seleccionado a,
 .menu #nav-sec li.elemento_no_selec a:hover{
-	color:#004165;
+	color:#004165 !important;
 }
 
 #nav-ppal
@@ -254,6 +254,26 @@ header
 	width: 1012px;
 	height: 60px;
 	margin-top:-10px ;/*-6*/
+}
+
+.menu #nav-sec ul ul.submenu_medios,
+.menu #nav-sec .elemento_seleccionado ul.submenu_medios
+{
+	background:url('../images/fondo_menu_sec.png') no-repeat;
+	padding-left:643px ;
+	width: 1012px;
+	height: 47px;
+	margin-top:-10px;/*-6*/
+}
+
+.menu #nav-sec ul ul.submenu_aviso,
+.menu #nav-sec .elemento_seleccionado ul.submenu_aviso
+{
+	background:url('../images/fondo_menu_sec.png') no-repeat;
+	padding-left:715px ;
+	width: 1012px;
+	height: 47px;
+	margin-top:-10px;/*-6*/
 }
 
 .menu #nav-sec .elemento_seleccionado a, 
@@ -324,7 +344,7 @@ header
 
 #nav-sec ul a:hover,
 #nav-sec ul ul a:hover{
-	color: #004165 ;
+	color: #004165 !important;
 }
 
 #nav-sec li:hover > a,
