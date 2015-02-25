@@ -55,7 +55,7 @@ a:hover {
 /* Página */
 
 body{
-	background: url(../images/img_principal.jpg) no-repeat 0px 185px;
+	background: url(../images/img_principal_opt.jpg) no-repeat 0px 185px;
 	padding: 0;
 	font: 15px  Open Sans,"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-weight: 300;
@@ -193,7 +193,6 @@ header
 .menu li {
 	float: left;
 	position: relative; 
-	border-right: 1px solid #e2e5e8; 
 	border:none;
 }
 
@@ -214,8 +213,6 @@ header
 	height: 54px;
 	margin: 0 0 10px 0;
 	background-image:url('../images/fondo_menu_ppal.png');
-	/*background: #ffffff;*/
-	/*border: 1px solid #ffffff;*/
 }
 
 #nav-sec {
@@ -370,7 +367,16 @@ header
 .huissiers{
 	position:absolute;
 	left:760px;
-	top:95px;
+	top:120px;
+}
+
+.huissiers span{
+    margin-left: 50px;
+}
+
+.huissiers a img{
+    margin-top: 15px;
+    border: 0 none;
 }
 
 .estilo-contenido
@@ -462,7 +468,7 @@ p img
 	width: 100%;
 	min-width:1024px;
 	height:57px;
-	background: url('../images/footer.jpg') repeat;
+	background: none repeat scroll 0 0 #D9DEE4;
 	margin-bottom: 0px;
 	position:relative;
 	top:40px;

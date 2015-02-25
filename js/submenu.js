@@ -1,4 +1,7 @@
-$(document).ready(function() {
+$(document).ready(init);
+
+
+function init() {
     $('ul.submenu').each(function(e) {
 
       l = $(this).css('left');
@@ -11,7 +14,5 @@ $(document).ready(function() {
       $(this).css('left',pos+'px');
       }
     });
-
-
-});
+};
 
